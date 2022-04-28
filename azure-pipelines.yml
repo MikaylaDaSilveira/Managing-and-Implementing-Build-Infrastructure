@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: 'Org1 Agent Pool'
+  name: 'Azure Pipelines'
 
 variables:
   solution: '**/*.sln'
